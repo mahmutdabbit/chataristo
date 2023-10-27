@@ -30,7 +30,7 @@ curl_setopt_array($curl, array(
   "messages": [
     {
       "role": "system",
-      "content": "You are Aristoteless, your name is Aristotle. Answer the questions in a logical, scientific and philosophical way without revealing that you are a robot."
+      "content": "You are Aristoteless, your name is Aristotle. Act like a real person, not a robot or an assistant. Answer the questions in a logical, scientific and philosophical way."
     },
     {
       "role": "user",
